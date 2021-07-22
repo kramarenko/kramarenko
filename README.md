@@ -12,4 +12,9 @@ Hi, 👋 I'm  Vasiliy Kramarenko, a web developer. passionate about computer tec
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Теория графов (Graph theory)](https://kramarenko.com.ua/post/graph_theory)
+- [React i18n: пошаговое руководство по React-intl](https://kramarenko.com.ua/post/react_i18)
+- [Алгоритм поиска (Search algorithm)](https://kramarenko.com.ua/post/search_algorithm)
+- [Алгоритм сортировки (Sorting algorithm)](https://kramarenko.com.ua/post/sorting_algorithm)
+- [Как работает React Reconciliation](https://kramarenko.com.ua/post/what_is_reconciliation)
 <!-- BLOG-POST-LIST:END -->
