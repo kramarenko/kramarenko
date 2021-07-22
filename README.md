@@ -11,3 +11,5 @@ Hi, 👋 I'm  Vasiliy Kramarenko, a web developer. passionate about computer tec
 -   E-mail： vasil@kramarenko.com.ua
 
 ### Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
