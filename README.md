@@ -2,6 +2,7 @@
 
 
 Hi, 👋 I'm  Vasiliy Kramarenko, a web developer. passionate about computer technology and geek spirit!
+Being result-driven person I am always working towards updating my professional skills and believe it's possible mix up the business and pleasure.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kramarenko)](https://github.com/anuraghazra/github-readme-stats)
 
