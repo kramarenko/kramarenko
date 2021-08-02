@@ -14,6 +14,7 @@ Being result-driven person I am always working towards updating my professional 
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Как использовать динамический импорт в Next.js](https://kramarenko.com.ua/post/dinamic-import-v-nextjs)
 - [Теория графов (Graph theory)](https://kramarenko.com.ua/post/graph_theory)
 - [React i18n: пошаговое руководство по React-intl](https://kramarenko.com.ua/post/react_i18)
 - [Алгоритм поиска (Search algorithm)](https://kramarenko.com.ua/post/search_algorithm)
@@ -23,5 +24,4 @@ Being result-driven person I am always working towards updating my professional 
 - [Amazing GitHub Repos for Every Developer](https://kramarenko.com.ua/post/amazing_gitHub_repos_every_developer)
 - [SOLID Principles in JavaScript](https://kramarenko.com.ua/post/solid_rinciples_in_javascript)
 - [A high level overview of React Hooks](https://kramarenko.com.ua/post/overview_of_react_hooks)
-- [Algorithms and data structures](https://kramarenko.com.ua/post/algorithms_and_data_structures)
 <!-- BLOG-POST-LIST:END -->
