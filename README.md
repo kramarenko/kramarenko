@@ -14,14 +14,14 @@ Being result-driven person I am always working towards updating my professional 
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Artillery - быстрая проверка работоспособности вашего сайта](https://kramarenko.com.ua/post/artillery_quick_check_site_performance)
+- [Создайте приложение React используя Styled Components](https://kramarenko.com.ua/post/react_styled_components)
+- [Развертывание образа в Docker Hub](https://kramarenko.com.ua/post/deploying_image_to_docker_hub)
+- [Microservices with Node JS and React](https://kramarenko.com.ua/post/microservices_Nodejs_react)
+- [what-is-kubernetes](https://kramarenko.com.ua/post/what_is_kubernetes)
+- [Начало работы с Docker в вашем приложении React](https://kramarenko.com.ua/post/getting_started_with_docker_in_-react)
 - [Как использовать динамический импорт в Next.js](https://kramarenko.com.ua/post/dinamic-import-v-nextjs)
 - [Теория графов (Graph theory)](https://kramarenko.com.ua/post/graph_theory)
 - [React i18n: пошаговое руководство по React-intl](https://kramarenko.com.ua/post/react_i18)
 - [Алгоритм поиска (Search algorithm)](https://kramarenko.com.ua/post/search_algorithm)
-- [Алгоритм сортировки (Sorting algorithm)](https://kramarenko.com.ua/post/sorting_algorithm)
-- [Как работает React Reconciliation](https://kramarenko.com.ua/post/what_is_reconciliation)
-- [useState vs useRef](https://kramarenko.com.ua/post/usestate_vs_useref)
-- [Amazing GitHub Repos for Every Developer](https://kramarenko.com.ua/post/amazing_gitHub_repos_every_developer)
-- [SOLID Principles in JavaScript](https://kramarenko.com.ua/post/solid_rinciples_in_javascript)
-- [A high level overview of React Hooks](https://kramarenko.com.ua/post/overview_of_react_hooks)
 <!-- BLOG-POST-LIST:END -->
