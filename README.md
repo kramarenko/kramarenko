@@ -14,6 +14,7 @@ Being result-driven person I am always working towards updating my professional 
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Создание приложения VR с React 360](https://kramarenko.com.ua/post/building_vr_app_with_react_360)
 - [Artillery - быстрая проверка работоспособности вашего сайта](https://kramarenko.com.ua/post/artillery_quick_check_site_performance)
 - [Создайте приложение React используя Styled Components](https://kramarenko.com.ua/post/react_styled_components)
 - [Развертывание образа в Docker Hub](https://kramarenko.com.ua/post/deploying_image_to_docker_hub)
@@ -23,5 +24,4 @@ Being result-driven person I am always working towards updating my professional 
 - [Как использовать динамический импорт в Next.js](https://kramarenko.com.ua/post/dinamic-import-v-nextjs)
 - [Теория графов (Graph theory)](https://kramarenko.com.ua/post/graph_theory)
 - [React i18n: пошаговое руководство по React-intl](https://kramarenko.com.ua/post/react_i18)
-- [Алгоритм поиска (Search algorithm)](https://kramarenko.com.ua/post/search_algorithm)
 <!-- BLOG-POST-LIST:END -->
