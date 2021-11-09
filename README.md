@@ -22,6 +22,6 @@ Being result-driven person I am always working towards updating my professional 
 - [what-is-kubernetes](https://kramarenko.com.ua/post/what_is_kubernetes)
 - [Начало работы с Docker в вашем приложении React](https://kramarenko.com.ua/post/getting_started_with_docker_in_-react)
 - [Как использовать динамический импорт в Next.js](https://kramarenko.com.ua/post/dinamic-import-v-nextjs)
-- [Теория графов (Graph theory)](https://kramarenko.com.ua/post/graph_theory)
+- [Теория графов &lpar;Graph theory&rpar;](https://kramarenko.com.ua/post/graph_theory)
 - [React i18n: пошаговое руководство по React-intl](https://kramarenko.com.ua/post/react_i18)
 <!-- BLOG-POST-LIST:END -->
